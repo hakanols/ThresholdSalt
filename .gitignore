@@ -1,0 +1,11 @@
+# Build output
+bin/
+out/
+
+# IDEA
+.idea/*
+
+# Eclipse
+.classpath
+.project
+.settings/
